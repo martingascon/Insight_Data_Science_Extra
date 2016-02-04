@@ -1,0 +1,23 @@
+{
+    "foursquare": {
+        "client_id": "example",
+        "client_secret": "example",
+        "user_access_token": "example"
+    },
+    "google": {
+        "client_id": "example",
+        "client_secret": "example",
+        "album_id": "example"
+    },
+    "movesapp": {
+        "client_id": "example",
+        "client_secret": "example"
+    },
+    "twitter": {
+        "client_id": "7eDCo2qRKjSc9QTlNNo6pqc37",
+        "client_secret": "14qubum20DqXkVYMFsqVJC188itHF10QEmI1YZQDVbAtxq3Uw0",
+        "access_token": "3179962074-VTtUFiexeL9uG7LcTqiFfRDkf9n7nq0bmd5Nx4y",
+        "access_token_secret": "3179962074-VTtUFiexeL9uG7LcTqiFfRDkf9n7nq0bmd5Nx4y"
+    },
+    "database": "host='localhost' dbname='crime' user='postgres'"
+}
